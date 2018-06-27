@@ -1,4 +1,4 @@
-# Aula 03: Executando o processo de compilação manualmente
+# 03: Compilando manualmente
 
 **Escrevendo o seu primeiro código, abra um editor de texto qualquer.**
 
